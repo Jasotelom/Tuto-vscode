@@ -1,0 +1,2 @@
+Hola mundo1 Soy una persona muy floja pero quiero aprender a programar:D.
+Edit1. Dejé tirado este proyecto durante almenos dos semanas, espero que con la ayuda de Dios y poniendo de mi parte pueda cumplir la meta de la primera línea.
